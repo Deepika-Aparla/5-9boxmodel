@@ -1,31 +1,48 @@
 .container{
     background-color:lavender;
-    width: 400px;
+    width: 500px;
     height: 500px;
     padding:10px 20px
     
 }
-pre{
+.container h3{
     color:brown;
-    padding: 10px 150px 
-   
+    padding: 10px;
+    border-color: pink;
+    border-style: groove;
+    border-width: 6px;
+    text-align: justify;
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+     
+    
 }
+   
 .container img{
     display: block;
-    margin-left:auto ;
-    margin-right: auto;
-    max-width: 100%;
     height: auto;
+    border-color: pink;
+    border-style: groove;
+    border-width: 6px;
+    text-align: justify;
+    width: 190px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .container p{
-    margin: 0;
-    padding: 0;
-    width: 100%;
+    padding: 0; 
     box-sizing: border-box;
-    text-align: left;
+    border-color: pink;
+    border-style: groove;
+    border-width: 6px;
+    text-align: justify;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .container{
-    border-color: pink;
+    border-color:blue;
     border-style: groove;
     border-width: 5px;
 }
